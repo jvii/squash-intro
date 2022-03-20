@@ -4,6 +4,7 @@ import Form from './Form';
 function App() {
   return (
     <div className="App">
+      <img src={require('./naassquash.png')} alt='NääsSquash logo' className='logo'/>
       <h1>Squash Intro</h1>
       <p>
         Nääs Squash järjestää lajista kiinnostuneille Squash Intro -tapahtumia Tampereen
@@ -19,7 +20,6 @@ function App() {
         tapahtuma järjestetään.
       </p>
       <Form />
-      <img src={require('./naassquash.png')} alt='NääsSquash logo' className='logo'/>
     </div>
   );
 }
