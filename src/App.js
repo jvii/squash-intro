@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <img src={require('./naassquash.png')} alt='NääsSquash logo' className='logo'/>
-      <h1>Squash Intro</h1>
+      <h1>Squash-Intro</h1>
       <p>
-        Nääs Squash järjestää lajista kiinnostuneille Squash Intro -tapahtumia Tampereen
+        Nääs-Squash järjestää lajista kiinnostuneille Squash-Intro -tapahtumia Tampereen
         Tenniskeskuksella.
       </p>
       <ul>

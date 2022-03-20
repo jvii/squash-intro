@@ -9,7 +9,7 @@ export default function Form() {
         <input type="email" id="email" name="email" required />
       </p>
       <p>
-        <label htmlFor="message">Message</label> <br />
+        <label htmlFor="message">Viesti (vapaaehtoinen)</label> <br />
         <textarea id="message" name="message"></textarea>
       </p>
       <p>

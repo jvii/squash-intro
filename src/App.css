@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+h1 {
+  border-top: black;
+  padding: 10px;
+}
+
 ul {
   list-style-type: none; /* Remove bullets */
   padding-left: 0px;
