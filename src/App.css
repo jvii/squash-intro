@@ -5,6 +5,7 @@
 
 ul {
   list-style-type: none; /* Remove bullets */
+  padding-left: 0px;
 }
 
 li {
@@ -14,7 +15,7 @@ li {
 
 .submit-button {
   width: 50%;
-  background-color: #04AA6D;
+  background-color: #04aa6d;
   padding: 14px 28px;
   font-size: 20px;
   cursor: pointer;
