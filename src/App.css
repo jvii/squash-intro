@@ -11,3 +11,12 @@ li {
   padding-top: 5px;
   padding-bottom: 10px;
 }
+
+.submit-button {
+  width: 50%;
+  background-color: #04AA6D;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}

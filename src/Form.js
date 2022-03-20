@@ -10,10 +10,10 @@ export default function Form() {
       </p>
       <p>
         <label htmlFor="message">Message</label> <br />
-        <textarea id="message" name="message" required></textarea>
+        <textarea id="message" name="message"></textarea>
       </p>
       <p>
-        <input type="submit" value="Lähetä" />
+        <input type="submit" value="Lähetä" className="submit-button"/>
       </p>
     </form>
   );
