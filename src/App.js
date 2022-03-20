@@ -19,6 +19,7 @@ function App() {
         tapahtuma järjestetään.
       </p>
       <Form />
+      <img src={require('./naassquash.png')} alt='NääsSquash logo' className='logo'/>
     </div>
   );
 }
